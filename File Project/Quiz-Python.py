@@ -1,6 +1,6 @@
 greetings = print('Hi Welcome To My Quiz Which I Made On Python. You Will be Assigned 5 Questions And If You Get Them All Correct, I Will Be Proud Of You.')
 score = 0
-name = (input('Before We get Started, Tell Me What Should I Call You.'))
+name = (input('Before We get Started, Tell Me What I should Call You.'))
 
 print(f'Alright {name} lets get started :)')
 
