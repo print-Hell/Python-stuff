@@ -3,7 +3,6 @@
 
 import random
 secret_number = (random.randint(0,10))
-print(secret_number)
 count = 0
 
 
@@ -58,6 +57,7 @@ elif Third_guess > secret_number:
 
 if count == 3:
     print('You have run out of guesses :(. Good luck next time.')
+    print(f'Btw the number was {secret_number} dummy! ')
     quit()
     
 
